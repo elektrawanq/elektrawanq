@@ -25,7 +25,7 @@ Currently pursuing a Bachelor's degree in Information Technology (4th semester) 
   <img align="center" alt="Let-LaTeX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 </div>
   
-  ##
+  ## Contact me:
  
 <div>  
   <a href = "mailto:letciawanderleyletw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C5221F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
