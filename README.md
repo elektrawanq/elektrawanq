@@ -22,7 +22,7 @@ Pronouns: ♀️ she/her
 <div style="display: inline_block"><br>
   <img align="center" alt="Let-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Let-CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Let-LaTeX" height="30" width="40" src="./latex-white-bg.svg">
+  <img align="center" alt="Let-LaTeX" height="30" width="40" src="./latex.svg">
 </div>
   
   ## Contact me:
