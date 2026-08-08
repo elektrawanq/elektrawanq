@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 Currently pursuing a Bachelor's degree in Information Technology (4th semester) at the Universidade Federal do Rio Grande do Norte (UFRN).
 
-- ♀️ Pronouns: she/her
+Pronouns: ♀️ she/her
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Let-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Let-CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Let-LaTeX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+  <img align="center" alt="Let-LaTeX" height="30" width="40" src="./latex-white-bg.svg">
 </div>
   
   ## Contact me:
