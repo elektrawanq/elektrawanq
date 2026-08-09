@@ -20,6 +20,9 @@ Currently pursuing a Bachelor's degree in Information Technology (4th semester) 
 Pronouns: ♀️ she/her
 
 <div style="display: inline_block"><br>
+  
+## Programming Languages
+  
   <img align="center" alt="Let-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Let-CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <span style="background-color: white; padding: 2px; display: inline-block;">
